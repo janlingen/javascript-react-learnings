@@ -1,1 +1,1 @@
-# react-learnings
+# javascript-react-learnings
