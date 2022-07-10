@@ -1,7 +1,14 @@
 console.log("Hello World")
 
-var name = "Jan"
+//camelCase
+var myName = "Jan"
 var age = 12
 var decimal = 12.0123213
 
-console.log("My name is " + name + " Age: " + age + " Decimal: " + decimal )
+//test
+
+/* test 
+   multi */
+
+
+console.log("My name is " + my_name + " Age: " + age + " Decimal: " + decimal )
