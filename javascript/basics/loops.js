@@ -20,3 +20,18 @@ console.log("-----------")
 arr.forEach(function(name) {
     console.log(name)
 })
+
+console.log("-----------")
+
+var test1 = 1
+while(test1 <= 5){
+    console.log(test1++)
+}
+
+console.log("-----------")
+
+var test2 = false
+
+do{ console.log("done")
+} while(test2)
+
