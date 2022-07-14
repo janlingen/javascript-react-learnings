@@ -35,3 +35,17 @@ var test2 = false
 do{ console.log("done")
 } while(test2)
 
+console.log("-----------")
+
+var test3 = 1
+while(test3 <= 5){
+    if(test3 == 2){
+        test3++
+        continue
+    }
+    if(test3 == 4){
+        break
+    }
+    console.log(test3++)
+}
+
