@@ -40,7 +40,7 @@ console.log("-----------")
 var test3 = 1
 while(test3 <= 5){
     if(test3 == 2){
-        test3++
+        test3 += 1
         continue
     }
     if(test3 == 4){
